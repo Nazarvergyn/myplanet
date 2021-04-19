@@ -1,0 +1,10 @@
+export { default as DashboardIcon} from './dashboard';
+export { default as ClockIcon} from './clock';
+export { default as MessageIcon} from './message';
+export { default as ProfileIcon} from './profile';
+export { default as ProjectIcon} from './project';
+export { default as SearchIcon} from './search';
+export { default as SettingIcon} from './setting';
+export { default as TodolistIcon} from './todo-list';
+export { default as ArrowIcon} from './arrow';
+export { default as ArrowUnfoldIcon} from './arrowUnfold';

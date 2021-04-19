@@ -1,0 +1,78 @@
+// .ant-layout-sider {
+//     margin-left: 24px;
+// }
+// .ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub, .ant-menu.ant-menu-dark .ant-menu-sub {
+//     background: none;
+// }
+// .ant-menu-item{
+//     color: #383E5F !important;
+//     font-weight: 500;
+// }
+// .ant-menu-item svg path {
+//     fill: #383E5F !important;
+// }
+// .ant-menu-item svg, .ant-menu-item span {
+//     vertical-align: middle;
+//     display: inline-block;
+// }
+// .ant-menu-item span {
+//     padding-left: 8px;
+// }
+// .ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected, .ant-layout-sider-trigger{
+//     background-color: #D3E7FB;
+// }
+// .ant-menu-item {
+//     border-radius: 24px;
+//     margin-top: 10px;
+//     margin-bottom: 0px;
+//     padding-left: 24px !important;
+//     line-height: 24px !important;
+//     height: auto !important;
+//     padding-top: 12px !important;
+//     padding-bottom: 12px !important;
+//     line-height: 100% !important;
+// }
+// .ant-layout-sider.ant-layout-sider-dark.ant-layout-sider-collapsed.ant-layout-sider-has-trigger .ant-layout-sider-trigger svg {
+//     transform: rotate(180deg);
+// }
+// .ant-layout-sider.ant-layout-sider-dark.ant-layout-sider-has-trigger {
+//     border-radius: 100px;
+// }
+// .ant-layout-sider-trigger {
+//     border-radius: 24px;
+//     padding: 15px;
+//     line-height: 100%;
+//     width: 224px !important;
+//     margin-bottom: 34px;
+// }
+// .ant-layout-sider.ant-layout-sider-dark.ant-layout-sider-collapsed.ant-layout-sider-has-trigger{
+//     min-width: 124px !important;
+//     max-width: 124px !important;
+//     width: 124px !important;
+// }
+// .ant-layout-sider.ant-layout-sider-dark.ant-layout-sider-collapsed.ant-layout-sider-has-trigger .ant-layout-sider-trigger {
+//     padding: 15px;
+//     line-height: 100%;
+//     width: 50px !important;
+// } 
+// .ant-menu.ant-menu-dark.ant-menu-inline-collapsed.ant-menu-root.ant-menu-vertical li span {
+//     display: none;
+// }
+// .ant-menu.ant-menu-dark.ant-menu-inline-collapsed.ant-menu-root.ant-menu-vertical li {
+//     background: none !important;
+// }
+// ant-layout-sider ant-layout-sider-dark ant-layout-sider-collapsed ant-layout-sider-has-trigger
+// ant-layout-sider ant-layout-sider-dark ant-layout-sider-has-trigger
+
+.trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+.trigger:hover {
+    color: #1890ff;
+  }
+  
